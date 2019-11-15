@@ -167,7 +167,7 @@
 >**Verboj**
 
 | Lidepla | Esperanto |
-|---|---|---|---|---|
+|---|---|
 | Bi/es/Bin| Esti |
 | Hev | Havi |
 | Mog | Povi |
